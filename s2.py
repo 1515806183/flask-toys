@@ -21,3 +21,4 @@ ret = client.asr(get_file_content('1.m4a'), 'pcm', 16000, {
 
 print(ret)
 print('哈哈')
+print(111)
