@@ -105,5 +105,5 @@ venv.bak/
 .mypy_cache/
 
 .idea/
-/docker-compose.yaml
-/Dockerfile
+#/docker-compose.yaml
+#/Dockerfile
